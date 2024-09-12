@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello! I'm hastekk </h1>
+<h1 align="center">👋 Привіт, я hastekk </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 <h2 align="center">🌟 About Me </h2>
-<p>I am a 19-year-old junior web developer with a passion for problem solving and technology. I love learning and self-development. I am interested in collaborating on web development projects. In my free time, I listen to music with headphones while wandering around the dark city.</p>
+<p>Я 19-річний початковий веб-розробник, який захоплюється вирішенням проблем та технологіями. Люблю вчитися та саморозвиватися. Зацікавлений у співпраці над проектами з веб-розробки. У вільний час я слухаю музику в навушниках, блукаючи темним містом.</p>
 
 <h2 align="center"> 🌐 Connect with me</h2>
 
