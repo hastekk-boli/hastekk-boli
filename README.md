@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привіт, я hastekk </h1>
+<h1 align="center">👋 Привіт, я locloder </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
