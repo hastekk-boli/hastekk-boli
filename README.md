@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="assets/wave.gif" alt="wave"/>
+ <img width="50" height="50" src="assets/wave.gif" alt="wave"/>
 Привіт, я locloder 
 </h1>
 
